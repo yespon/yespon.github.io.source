@@ -1,4 +1,4 @@
-clone_depth: 5
+clone_depth: 0
 
 environment:
   access_token:
