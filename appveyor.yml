@@ -11,7 +11,7 @@ install:
   - npm install hexo-cli -g
   
 build_script:
-  - hexo generate
+  - hexo generate -d
   
 artifacts:
   - path: public
