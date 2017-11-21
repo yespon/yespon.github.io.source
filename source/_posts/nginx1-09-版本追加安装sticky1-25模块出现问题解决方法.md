@@ -1,11 +1,11 @@
 ---
-title: nginx1.09.*+版本追加安装sticky1.25模块出现问题解决方法
+title: nginx1.9.0+版本追加安装sticky1.25模块出现问题解决方法
 date: 2017-11-21 15:15:10
 category:
 	- 服务器技术
 tags: 
 	- Nginx
- 	- sticky
+	- Sticky
 	- 反向代理
 ---
 ## 问题一：
