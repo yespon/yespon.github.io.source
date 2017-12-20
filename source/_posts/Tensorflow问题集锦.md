@@ -12,7 +12,7 @@ tags:
 ## couldn’t open CUDA library cupti64_80.dll
 
 问题一般出现在：Win10 TensorFlow（gpu）安装过程
-
+<!--more-->
 **原因：**在资源管理器中查询 cupti64_80.dll 的位置。如对于 windows 用户而言，如果将 nvidia 的显卡驱动安装在默认位置，该 dll 文件的路径在：
 
 ```cmd

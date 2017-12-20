@@ -11,7 +11,7 @@ tags:
 本文最初发布于[Segment官方博客](https://segment.com/blog/)，原作者：[Rick Branson](https://segment.com/blog/authors/rick-branson/)。经授权由[InfoQ中文站](http://www.infoq.com/cn/articles/talk-about-the-history-of-uuid)翻译并分享。阅读英文原文：[A Brief History of the UUID](https://segment.com/blog/a-brief-history-of-the-uuid/)。
 
 今天，我们发布了KSUID，一款用于生成唯一ID的Golang库。该产品借鉴了目前广泛使用的UUID标准一些核心理念，增加了基于时间的排序功能，可提供更友好的表现格式。在针对该产品进行调研的过程中，我们发现UUID的背后其实还有一个极富吸引力的故事，想要借助本文分享给大家。
-
+<!--more-->
 自从两台甚至更多计算机可以通过网络交换信息那天起，它们就需要一种能够体现唯一性的“身份”。
 
 第一个符合目前我们所知这种定义的“网络”，是1870年代建立的全球首个电话交换网。在此之前，电话线路完全是一种点对点链路。尽管在当时这有着划时代的意义，但这种网络很昂贵，不灵活，也不可靠。甚至导致各大主要城市街头形成了电线交织而成的“蜘蛛网”。
