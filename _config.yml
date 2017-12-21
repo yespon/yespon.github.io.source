@@ -6,7 +6,7 @@
 title: Life Designer
 subtitle: Life Designer, design by oneself!
 description: Life Designer, design by oneself!
-author: Yespon Liu
+author: Yespon
 language: en
 timezone:
 
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hueman
+theme: yespon
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
